@@ -1,0 +1,16 @@
+
+		--------------------------------------------------------------------------------
+		|			UNIVERSIDAD MAYOR DE SAN ANDRES 			|
+		|		     FACULTAD DE CIENCIAS PURAS Y NATURALES			|
+		|			    CARRERA DE INFORMATICA				|
+		|										|
+		|			      PROYECTO DE GRADO					|
+		|	     "SISTEMA DE GESTION PARA LA CAPACITACION PRODUCTIVA		|
+                |                     CASO:GOBIERNO MUNICIPAL DE LA PAZ"			|
+		|										|
+		|		       POSTULANTE:VICTOR CRUZ GOMEZ				|
+		|		     TUTOR:LIC. EFRAIN SILVA SANCHEZ				|
+		|		   REVISOR:M.SC RENE CASILLA GUITIERREZ				|
+		|										|
+		|			      LA PAZ - BOLIVIA					|
+		--------------------------------------------------------------------------------
